@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="QURAN",QURAN
+http://webtv.dodear.asia:88/saudiquransd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SUNNAH",SUNNAH
+http://webtv.dodear.asia:88/saudisunnahsd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AryQ",AryQ
+http://webtv.dodear.asia:88/aryqtvsd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MADNI",MADNI
+http://webtv.dodear.asia:88/madnitvsd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OSNMOVES",OSNMOVES
+http://webtv.dodear.asia:88/osnmoviesaction/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MOVES",MOVES
+http://webtv.dodear.asia:88/osnmovies/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/osnseries/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/8xmsd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/jalwamusicsd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/aplushd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/aantvhd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/atvhd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/aurlifehd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/aajtvsd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/apnatv/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/arydigitalhd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/geotvhd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/humtvsd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/24newshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/7newshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/92newshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/abnnewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/aajnewssd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/abbtaknewssd/index.m3u8
+http://webtv.dodear.asia:88/arynewssd/index.m3u8
+http://webtv.dodear.asia:88/bolnewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/dunyanewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/expressnewssd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/geonewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/humnewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/ktnnewshd/index.m3u8
+http://webtv.dodear.asia:88/lahorenewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/neonewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/pnnnewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/playtvsd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/publicnewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/suchnewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/samaanewssd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/sunonewshd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/asportssd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/ptvsportssd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/supersportseplhd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/starzplaycric/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/skysportseplhd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/tensportssd/tracks-v1a1/mono.m3u8
+http://webtv.dodear.asia:88/skysportswwe/tracks-v1a1/mono.m3u8
